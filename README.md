@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Prometheus , Kafka
 - I’m Looking To Collaborate With DevOps Integrators
 - 💬 Ask me about DevOps , MLOps , Flutter 
-- 📫 How to reach me: https://www.linkedin.com/in/chayandeokar/ 
+- 📫 How to reach me: https://www.linkedin.com/in/rizwanpathan786/
 
 <br><br>
 ## 🚀 Languages and Technologies:
