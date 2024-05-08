@@ -12,9 +12,6 @@
     <a href="https://www.docker.com/"/> <img src="https://img.icons8.com/fluency/48/000000/docker.png"/> </a>
     <a href="https://kubernetes.io/"> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> </a>
     <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift"/> <img src="https://github.com/niharicka2602/niharicka2602/blob/main/openshift%20logo.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://github.com/"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>    
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>
