@@ -1,5 +1,5 @@
 
-- 🌱 I’m currently learning Prometheus , Kafka
+- 🌱 I’m currently learning kubernetes,Ansible,Jenkins,CI/CD
 - I’m Looking To Collaborate With DevOps Integrators
 - 💬 Ask me about DevOps , MLOps , Flutter 
 - 📫 How to reach me: https://www.linkedin.com/in/rizwanpathan786/
